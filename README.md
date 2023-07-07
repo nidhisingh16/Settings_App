@@ -19,7 +19,8 @@ I'm thrilled to announce that I've created a captivating Settings App using Andr
 
 1. **Clone the Repository**: Start by cloning the project repository from GitHub using the following command:
    ```
-   git clone https://github.com/nidhisingh16/Settings-App.git
+   git clone
+   https://github.com/nidhisingh16/Settings_App
    ```
 
 2. **Set Up Android Studio**: Make sure you have Android Studio installed on your development machine. If not, you can download it from [here](https://developer.android.com/studio).
